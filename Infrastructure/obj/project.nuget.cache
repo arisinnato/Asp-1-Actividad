@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u6oicXRn5to=",
+  "dgSpecHash": "2R+uozEkoTA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
