@@ -2923,11 +2923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2944,8 +2944,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Core\\Core.csproj"
+            "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Core\\Core.csproj"
             }
           }
         }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Core\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

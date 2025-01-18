@@ -12,7 +12,11 @@ namespace Infrastructure.Data
    public class AppDbContext : DbContext
 {
     public DbSet<Personaje> Personajes {get;set;}
-    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+    public DbSet<Misiones> Misiones {get;set;}
+    public DbSet<Enemigos> Enemigos {get;set;}
+    public DbSet<Objetos> Objetos {get;set;}
+    public DbSet<Ubicacion> Ubicacion {get;set;}
+      public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
 {
 }
     protected override void OnModelCreating(ModelBuilder builder)
@@ -21,6 +25,8 @@ namespace Infrastructure.Data
     builder.ApplyConfiguration(new MisionConfigurations());
     builder.ApplyConfiguration(new ObjetoConfigurations());
     builder.ApplyConfiguration(new EnemigoConfigurations());
+     builder.ApplyConfiguration(new UbicacionConfigurations());
+
 
 }
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
