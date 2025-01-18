@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Web\\Web.csproj": {}
+    "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Web\\Web.csproj": {
+    "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Web\\Web.csproj",
+        "projectPath": "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Downloads\\practica-unidad-i-arisinnato\\Web\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\Downloads\\Asp-1-Actividad\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
