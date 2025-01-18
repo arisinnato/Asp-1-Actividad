@@ -11,6 +11,7 @@ namespace Infrastructure.Data
 {
    public class AppDbContext : DbContext
 {
+    //RELACION DE LAS ENTIDADES (esto es lo que te digo que falta, esto tambien lo pide el profesor)
     public DbSet<Personaje> Personajes {get;set;}
     public DbSet<Misiones> Misiones {get;set;}
     public DbSet<Enemigos> Enemigos {get;set;}
@@ -21,6 +22,9 @@ namespace Infrastructure.Data
 }
     protected override void OnModelCreating(ModelBuilder builder)
 {
+
+    //RELACION DE LA CONFIGURACION 
+    
     builder.ApplyConfiguration(new PersonajeConfigurations());
     builder.ApplyConfiguration(new MisionConfigurations());
     builder.ApplyConfiguration(new ObjetoConfigurations());
